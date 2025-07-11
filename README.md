@@ -41,7 +41,7 @@ Para a resolução deste projeto segui o tutorial do laboratório 03 [Explore Sp
    ![](https://github.com/CarlaAlves887/analise-fala-linguagem-natural/blob/main/images/Imagem6.png)
 
 
-# 3. Analisar texto - Explorar a conversão de fala para texto
+# 3. Analisar texto
    
 1. No menu lateral da esquerda, selecionar `Catálogo de modelos`. Procurar pelo modelo `Azure-AI-Language` e selecioná-lo
 
