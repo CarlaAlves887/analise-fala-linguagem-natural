@@ -31,6 +31,7 @@ Para a resolução deste projeto segui o tutorial do laboratório 03 [Explore Sp
 
 
 2. Na página `Azure-AI-Speech` seleciona a opção `Transcrição em tempo real`
+   
    ![](https://github.com/CarlaAlves887/analise-fala-linguagem-natural/blob/main/images/Imagem5.png)
 
 3. Fazer upload do [ficheiro de voz](https://github.com/CarlaAlves887/analise-fala-linguagem-natural/blob/main/input/WhatAICanDo.m4a)
