@@ -1,0 +1,830 @@
+{
+  "summaries": [
+    {
+      "aspect": "recap",
+      "text": "The session focuses on the use of Azure AI for multimodal models, including ChatGPT, speech recognition, language and form recognition, and form recognizer. The speaker introduces new capabilities like auto-predicting emotional content, form recognizer's key mapping feature, and promptflow's ability to create and test prompts. The session also covers the use of system messages, content safety, and dense captioning for these models.",
+      "contexts": [
+        {
+          "conversationItemId": "conversationId_10",
+          "offset": 0,
+          "length": 12
+        },
+        {
+          "conversationItemId": "conversationId_11",
+          "offset": 0,
+          "length": 88
+        },
+        {
+          "conversationItemId": "conversationId_12",
+          "offset": 0,
+          "length": 121
+        },
+        {
+          "conversationItemId": "conversationId_13",
+          "offset": 0,
+          "length": 63
+        },
+        {
+          "conversationItemId": "conversationId_14",
+          "offset": 0,
+          "length": 290
+        },
+        {
+          "conversationItemId": "conversationId_15",
+          "offset": 0,
+          "length": 175
+        },
+        {
+          "conversationItemId": "conversationId_16",
+          "offset": 0,
+          "length": 65
+        },
+        {
+          "conversationItemId": "conversationId_17",
+          "offset": 0,
+          "length": 28
+        },
+        {
+          "conversationItemId": "conversationId_18",
+          "offset": 0,
+          "length": 130
+        },
+        {
+          "conversationItemId": "conversationId_19",
+          "offset": 0,
+          "length": 10
+        },
+        {
+          "conversationItemId": "conversationId_20",
+          "offset": 0,
+          "length": 33
+        },
+        {
+          "conversationItemId": "conversationId_21",
+          "offset": 0,
+          "length": 22
+        },
+        {
+          "conversationItemId": "conversationId_22",
+          "offset": 0,
+          "length": 118
+        },
+        {
+          "conversationItemId": "conversationId_23",
+          "offset": 0,
+          "length": 50
+        },
+        {
+          "conversationItemId": "conversationId_24",
+          "offset": 0,
+          "length": 50
+        },
+        {
+          "conversationItemId": "conversationId_25",
+          "offset": 0,
+          "length": 106
+        },
+        {
+          "conversationItemId": "conversationId_26",
+          "offset": 0,
+          "length": 100
+        },
+        {
+          "conversationItemId": "conversationId_27",
+          "offset": 0,
+          "length": 50
+        },
+        {
+          "conversationItemId": "conversationId_28",
+          "offset": 0,
+          "length": 5
+        },
+        {
+          "conversationItemId": "conversationId_29",
+          "offset": 0,
+          "length": 14
+        },
+        {
+          "conversationItemId": "conversationId_30",
+          "offset": 0,
+          "length": 39
+        },
+        {
+          "conversationItemId": "conversationId_31",
+          "offset": 0,
+          "length": 115
+        },
+        {
+          "conversationItemId": "conversationId_32",
+          "offset": 0,
+          "length": 144
+        },
+        {
+          "conversationItemId": "conversationId_33",
+          "offset": 0,
+          "length": 284
+        },
+        {
+          "conversationItemId": "conversationId_34",
+          "offset": 0,
+          "length": 79
+        },
+        {
+          "conversationItemId": "conversationId_35",
+          "offset": 0,
+          "length": 189
+        },
+        {
+          "conversationItemId": "conversationId_36",
+          "offset": 0,
+          "length": 125
+        },
+        {
+          "conversationItemId": "conversationId_37",
+          "offset": 0,
+          "length": 55
+        },
+        {
+          "conversationItemId": "conversationId_38",
+          "offset": 0,
+          "length": 87
+        },
+        {
+          "conversationItemId": "conversationId_39",
+          "offset": 0,
+          "length": 36
+        },
+        {
+          "conversationItemId": "conversationId_40",
+          "offset": 0,
+          "length": 45
+        },
+        {
+          "conversationItemId": "conversationId_41",
+          "offset": 0,
+          "length": 200
+        },
+        {
+          "conversationItemId": "conversationId_42",
+          "offset": 0,
+          "length": 45
+        },
+        {
+          "conversationItemId": "conversationId_43",
+          "offset": 0,
+          "length": 20
+        },
+        {
+          "conversationItemId": "conversationId_44",
+          "offset": 0,
+          "length": 98
+        },
+        {
+          "conversationItemId": "conversationId_45",
+          "offset": 0,
+          "length": 147
+        },
+        {
+          "conversationItemId": "conversationId_46",
+          "offset": 0,
+          "length": 27
+        },
+        {
+          "conversationItemId": "conversationId_47",
+          "offset": 0,
+          "length": 149
+        },
+        {
+          "conversationItemId": "conversationId_48",
+          "offset": 0,
+          "length": 60
+        },
+        {
+          "conversationItemId": "conversationId_49",
+          "offset": 0,
+          "length": 36
+        },
+        {
+          "conversationItemId": "conversationId_50",
+          "offset": 0,
+          "length": 56
+        },
+        {
+          "conversationItemId": "conversationId_51",
+          "offset": 0,
+          "length": 57
+        },
+        {
+          "conversationItemId": "conversationId_52",
+          "offset": 0,
+          "length": 68
+        },
+        {
+          "conversationItemId": "conversationId_53",
+          "offset": 0,
+          "length": 112
+        },
+        {
+          "conversationItemId": "conversationId_54",
+          "offset": 0,
+          "length": 63
+        },
+        {
+          "conversationItemId": "conversationId_55",
+          "offset": 0,
+          "length": 374
+        },
+        {
+          "conversationItemId": "conversationId_56",
+          "offset": 0,
+          "length": 195
+        },
+        {
+          "conversationItemId": "conversationId_57",
+          "offset": 0,
+          "length": 165
+        },
+        {
+          "conversationItemId": "conversationId_58",
+          "offset": 0,
+          "length": 45
+        },
+        {
+          "conversationItemId": "conversationId_59",
+          "offset": 0,
+          "length": 185
+        },
+        {
+          "conversationItemId": "conversationId_60",
+          "offset": 0,
+          "length": 148
+        },
+        {
+          "conversationItemId": "conversationId_61",
+          "offset": 0,
+          "length": 190
+        },
+        {
+          "conversationItemId": "conversationId_62",
+          "offset": 0,
+          "length": 13
+        },
+        {
+          "conversationItemId": "conversationId_63",
+          "offset": 0,
+          "length": 330
+        },
+        {
+          "conversationItemId": "conversationId_64",
+          "offset": 0,
+          "length": 201
+        },
+        {
+          "conversationItemId": "conversationId_65",
+          "offset": 0,
+          "length": 152
+        },
+        {
+          "conversationItemId": "conversationId_66",
+          "offset": 0,
+          "length": 167
+        },
+        {
+          "conversationItemId": "conversationId_67",
+          "offset": 0,
+          "length": 35
+        },
+        {
+          "conversationItemId": "conversationId_68",
+          "offset": 0,
+          "length": 99
+        },
+        {
+          "conversationItemId": "conversationId_69",
+          "offset": 0,
+          "length": 20
+        },
+        {
+          "conversationItemId": "conversationId_70",
+          "offset": 0,
+          "length": 38
+        },
+        {
+          "conversationItemId": "conversationId_71",
+          "offset": 0,
+          "length": 55
+        },
+        {
+          "conversationItemId": "conversationId_72",
+          "offset": 0,
+          "length": 6
+        },
+        {
+          "conversationItemId": "conversationId_73",
+          "offset": 0,
+          "length": 104
+        },
+        {
+          "conversationItemId": "conversationId_74",
+          "offset": 0,
+          "length": 108
+        },
+        {
+          "conversationItemId": "conversationId_75",
+          "offset": 0,
+          "length": 69
+        },
+        {
+          "conversationItemId": "conversationId_76",
+          "offset": 0,
+          "length": 190
+        },
+        {
+          "conversationItemId": "conversationId_77",
+          "offset": 0,
+          "length": 97
+        },
+        {
+          "conversationItemId": "conversationId_78",
+          "offset": 0,
+          "length": 74
+        },
+        {
+          "conversationItemId": "conversationId_79",
+          "offset": 0,
+          "length": 66
+        },
+        {
+          "conversationItemId": "conversationId_80",
+          "offset": 0,
+          "length": 65
+        },
+        {
+          "conversationItemId": "conversationId_81",
+          "offset": 0,
+          "length": 84
+        },
+        {
+          "conversationItemId": "conversationId_85",
+          "offset": 0,
+          "length": 95
+        },
+        {
+          "conversationItemId": "conversationId_86",
+          "offset": 0,
+          "length": 109
+        },
+        {
+          "conversationItemId": "conversationId_87",
+          "offset": 0,
+          "length": 40
+        },
+        {
+          "conversationItemId": "conversationId_88",
+          "offset": 0,
+          "length": 165
+        },
+        {
+          "conversationItemId": "conversationId_89",
+          "offset": 0,
+          "length": 83
+        },
+        {
+          "conversationItemId": "conversationId_90",
+          "offset": 0,
+          "length": 156
+        },
+        {
+          "conversationItemId": "conversationId_91",
+          "offset": 0,
+          "length": 85
+        },
+        {
+          "conversationItemId": "conversationId_92",
+          "offset": 0,
+          "length": 130
+        },
+        {
+          "conversationItemId": "conversationId_93",
+          "offset": 0,
+          "length": 31
+        },
+        {
+          "conversationItemId": "conversationId_95",
+          "offset": 0,
+          "length": 56
+        },
+        {
+          "conversationItemId": "conversationId_96",
+          "offset": 0,
+          "length": 28
+        },
+        {
+          "conversationItemId": "conversationId_98",
+          "offset": 0,
+          "length": 106
+        },
+        {
+          "conversationItemId": "conversationId_103",
+          "offset": 0,
+          "length": 104
+        },
+        {
+          "conversationItemId": "conversationId_106",
+          "offset": 0,
+          "length": 33
+        },
+        {
+          "conversationItemId": "conversationId_107",
+          "offset": 0,
+          "length": 83
+        },
+        {
+          "conversationItemId": "conversationId_116",
+          "offset": 0,
+          "length": 230
+        },
+        {
+          "conversationItemId": "conversationId_118",
+          "offset": 0,
+          "length": 42
+        },
+        {
+          "conversationItemId": "conversationId_119",
+          "offset": 0,
+          "length": 24
+        },
+        {
+          "conversationItemId": "conversationId_121",
+          "offset": 0,
+          "length": 143
+        },
+        {
+          "conversationItemId": "conversationId_122",
+          "offset": 0,
+          "length": 116
+        },
+        {
+          "conversationItemId": "conversationId_123",
+          "offset": 0,
+          "length": 50
+        },
+        {
+          "conversationItemId": "conversationId_125",
+          "offset": 0,
+          "length": 25
+        },
+        {
+          "conversationItemId": "conversationId_128",
+          "offset": 0,
+          "length": 415
+        },
+        {
+          "conversationItemId": "conversationId_130",
+          "offset": 0,
+          "length": 157
+        },
+        {
+          "conversationItemId": "conversationId_140",
+          "offset": 0,
+          "length": 301
+        },
+        {
+          "conversationItemId": "conversationId_141",
+          "offset": 0,
+          "length": 86
+        },
+        {
+          "conversationItemId": "conversationId_142",
+          "offset": 0,
+          "length": 85
+        },
+        {
+          "conversationItemId": "conversationId_143",
+          "offset": 0,
+          "length": 86
+        },
+        {
+          "conversationItemId": "conversationId_144",
+          "offset": 0,
+          "length": 65
+        },
+        {
+          "conversationItemId": "conversationId_145",
+          "offset": 0,
+          "length": 175
+        },
+        {
+          "conversationItemId": "conversationId_147",
+          "offset": 0,
+          "length": 244
+        },
+        {
+          "conversationItemId": "conversationId_148",
+          "offset": 0,
+          "length": 94
+        },
+        {
+          "conversationItemId": "conversationId_149",
+          "offset": 0,
+          "length": 322
+        },
+        {
+          "conversationItemId": "conversationId_151",
+          "offset": 0,
+          "length": 110
+        },
+        {
+          "conversationItemId": "conversationId_152",
+          "offset": 0,
+          "length": 356
+        },
+        {
+          "conversationItemId": "conversationId_154",
+          "offset": 0,
+          "length": 23
+        },
+        {
+          "conversationItemId": "conversationId_155",
+          "offset": 0,
+          "length": 35
+        },
+        {
+          "conversationItemId": "conversationId_156",
+          "offset": 0,
+          "length": 143
+        },
+        {
+          "conversationItemId": "conversationId_157",
+          "offset": 0,
+          "length": 141
+        },
+        {
+          "conversationItemId": "conversationId_158",
+          "offset": 0,
+          "length": 114
+        },
+        {
+          "conversationItemId": "conversationId_161",
+          "offset": 0,
+          "length": 244
+        },
+        {
+          "conversationItemId": "conversationId_162",
+          "offset": 0,
+          "length": 223
+        },
+        {
+          "conversationItemId": "conversationId_163",
+          "offset": 0,
+          "length": 299
+        },
+        {
+          "conversationItemId": "conversationId_165",
+          "offset": 0,
+          "length": 135
+        },
+        {
+          "conversationItemId": "conversationId_166",
+          "offset": 0,
+          "length": 222
+        },
+        {
+          "conversationItemId": "conversationId_170",
+          "offset": 0,
+          "length": 28
+        },
+        {
+          "conversationItemId": "conversationId_172",
+          "offset": 0,
+          "length": 295
+        },
+        {
+          "conversationItemId": "conversationId_173",
+          "offset": 0,
+          "length": 51
+        },
+        {
+          "conversationItemId": "conversationId_174",
+          "offset": 0,
+          "length": 83
+        },
+        {
+          "conversationItemId": "conversationId_179",
+          "offset": 0,
+          "length": 121
+        },
+        {
+          "conversationItemId": "conversationId_180",
+          "offset": 0,
+          "length": 61
+        },
+        {
+          "conversationItemId": "conversationId_181",
+          "offset": 0,
+          "length": 127
+        },
+        {
+          "conversationItemId": "conversationId_184",
+          "offset": 0,
+          "length": 134
+        },
+        {
+          "conversationItemId": "conversationId_185",
+          "offset": 0,
+          "length": 156
+        },
+        {
+          "conversationItemId": "conversationId_186",
+          "offset": 0,
+          "length": 56
+        },
+        {
+          "conversationItemId": "conversationId_187",
+          "offset": 0,
+          "length": 72
+        },
+        {
+          "conversationItemId": "conversationId_188",
+          "offset": 0,
+          "length": 135
+        },
+        {
+          "conversationItemId": "conversationId_189",
+          "offset": 0,
+          "length": 93
+        },
+        {
+          "conversationItemId": "conversationId_190",
+          "offset": 0,
+          "length": 217
+        },
+        {
+          "conversationItemId": "conversationId_191",
+          "offset": 0,
+          "length": 106
+        },
+        {
+          "conversationItemId": "conversationId_192",
+          "offset": 0,
+          "length": 182
+        },
+        {
+          "conversationItemId": "conversationId_194",
+          "offset": 0,
+          "length": 188
+        },
+        {
+          "conversationItemId": "conversationId_197",
+          "offset": 0,
+          "length": 165
+        },
+        {
+          "conversationItemId": "conversationId_199",
+          "offset": 0,
+          "length": 29
+        },
+        {
+          "conversationItemId": "conversationId_209",
+          "offset": 0,
+          "length": 210
+        },
+        {
+          "conversationItemId": "conversationId_210",
+          "offset": 0,
+          "length": 122
+        },
+        {
+          "conversationItemId": "conversationId_216",
+          "offset": 0,
+          "length": 137
+        },
+        {
+          "conversationItemId": "conversationId_217",
+          "offset": 0,
+          "length": 112
+        },
+        {
+          "conversationItemId": "conversationId_218",
+          "offset": 0,
+          "length": 94
+        },
+        {
+          "conversationItemId": "conversationId_225",
+          "offset": 0,
+          "length": 98
+        },
+        {
+          "conversationItemId": "conversationId_226",
+          "offset": 0,
+          "length": 68
+        },
+        {
+          "conversationItemId": "conversationId_227",
+          "offset": 0,
+          "length": 80
+        },
+        {
+          "conversationItemId": "conversationId_228",
+          "offset": 0,
+          "length": 68
+        },
+        {
+          "conversationItemId": "conversationId_231",
+          "offset": 0,
+          "length": 108
+        },
+        {
+          "conversationItemId": "conversationId_232",
+          "offset": 0,
+          "length": 17
+        },
+        {
+          "conversationItemId": "conversationId_234",
+          "offset": 0,
+          "length": 76
+        },
+        {
+          "conversationItemId": "conversationId_235",
+          "offset": 0,
+          "length": 47
+        },
+        {
+          "conversationItemId": "conversationId_239",
+          "offset": 0,
+          "length": 66
+        },
+        {
+          "conversationItemId": "conversationId_240",
+          "offset": 0,
+          "length": 51
+        },
+        {
+          "conversationItemId": "conversationId_243",
+          "offset": 0,
+          "length": 36
+        },
+        {
+          "conversationItemId": "conversationId_244",
+          "offset": 0,
+          "length": 110
+        },
+        {
+          "conversationItemId": "conversationId_248",
+          "offset": 0,
+          "length": 173
+        },
+        {
+          "conversationItemId": "conversationId_250",
+          "offset": 0,
+          "length": 257
+        },
+        {
+          "conversationItemId": "conversationId_255",
+          "offset": 0,
+          "length": 86
+        },
+        {
+          "conversationItemId": "conversationId_256",
+          "offset": 0,
+          "length": 196
+        },
+        {
+          "conversationItemId": "conversationId_260",
+          "offset": 0,
+          "length": 122
+        },
+        {
+          "conversationItemId": "conversationId_261",
+          "offset": 0,
+          "length": 106
+        },
+        {
+          "conversationItemId": "conversationId_265",
+          "offset": 0,
+          "length": 76
+        },
+        {
+          "conversationItemId": "conversationId_267",
+          "offset": 0,
+          "length": 99
+        },
+        {
+          "conversationItemId": "conversationId_268",
+          "offset": 0,
+          "length": 130
+        },
+        {
+          "conversationItemId": "conversationId_270",
+          "offset": 0,
+          "length": 37
+        },
+        {
+          "conversationItemId": "conversationId_271",
+          "offset": 0,
+          "length": 22
+        }
+      ]
+    }
+  ]
+}
